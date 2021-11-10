@@ -1,7 +1,7 @@
 # Powerful-Websites
 A big list of useful website, that you must know
 
-1	**Muscle Wiki**	https://musclewiki.com/	Pick a muscle and find workouts\
+1	**Muscle Wiki**	https://musclewiki.com/	Pick a muscle and find workouts\\\
 2	**TempMail**	https://temp-mail.org/en/	Get a temporary email address\
 3	**Just The Recipe**	https://www.justtherecipe.com/	Paste a recipe article to remove all the stories and get just the recipe\
 4	**Airport Wifi**	https://bit.ly/3EW4Oz4	Find the WiFi Passwords at different airports\
