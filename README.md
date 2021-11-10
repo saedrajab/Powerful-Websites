@@ -1,13 +1,18 @@
 # Powerful-Websites
 A big list of useful website, that you must know
 
-1	**Muscle Wiki**	https://musclewiki.com/	Pick a muscle and find workouts\ \
+1	**Muscle Wiki**	https://musclewiki.com/	Pick a muscle and find workouts\
 
 2	**TempMail**	https://temp-mail.org/en/	Get a temporary email address\
+
 3	**Just The Recipe**	https://www.justtherecipe.com/	Paste a recipe article to remove all the stories and get just the recipe\
+
 4	**Airport Wifi**	https://bit.ly/3EW4Oz4	Find the WiFi Passwords at different airports\
+
 5	**McBroken**	https://mcbroken.com/	Find working Mcdonalds Ice Cream Machines\
+
 6	**My Fridge Food**	https://myfridgefood.com/	Find recipes for ingredients in your fridge\
+
 7	**My 90s Tv**	https://my90stv.com/	Watch 90s TV Shows\
 8	**Eat This Much**	https://www.eatthismuch.com/	Create a meal plan for your Diet\
 9	**Just Watch**	https://www.justwatch.com	Find streaming sites for movies and TV Shows\
